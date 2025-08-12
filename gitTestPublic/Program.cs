@@ -11,6 +11,7 @@ namespace gitTestPublic
         static void Main(string[] args)
         {
             Console.WriteLine("It is PUBLIC!!!");
+            Console.WriteLine("bla");
         }
     }
 }
