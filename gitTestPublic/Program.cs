@@ -13,6 +13,10 @@ namespace gitTestPublic
             Console.WriteLine("It is PUBLIC!!!");
             Console.WriteLine("bla");
             Console.WriteLine("oppa na na");
+
+            Console.WriteLine("New branch!!!");
+
+            Console.WriteLine("This is COMMIT");
         }
     }
 }
