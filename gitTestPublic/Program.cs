@@ -12,7 +12,7 @@ namespace gitTestPublic
         {
             Console.WriteLine("It is PUBLIC!!!");
             Console.WriteLine("bla");
-            \\\\давай сюди
+            Console.WriteLine("oppa");
         }
     }
 }
