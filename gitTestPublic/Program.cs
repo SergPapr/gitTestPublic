@@ -10,9 +10,7 @@ namespace gitTestPublic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("It is PUBLIC!!!");
-            Console.WriteLine("bla");
-            Console.WriteLine("oppa na na");
+            Console.WriteLine("NEW HISTORY");
         }
     }
 }
